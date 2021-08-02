@@ -1,4 +1,7 @@
 My name is M JAYANTH VARMA
 My pet name is Chinni
+<<<<<<< HEAD
 My favourite actor is Vijay Sethupathi
 
+=======
+>>>>>>> 4c442e0de864bcd3fe1f260a91343267642f36c8
